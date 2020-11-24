@@ -12,3 +12,7 @@ I hope the same does not happen here that ends in more confusion rather than lea
 I could relate to our lecturer's lessons through the simple "Hello World" practice!
 
 I recommend it ... 
+
+
+Trying with Lombe's PResence 
+See where the fault is ...
